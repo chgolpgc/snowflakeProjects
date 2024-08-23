@@ -1,2 +1,2 @@
 # snowflakeProjects
-Snowflake-based projects 
+Snowflake-based projects.
